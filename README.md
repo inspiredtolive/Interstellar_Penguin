@@ -1,5 +1,5 @@
-# Interstellar_Penguin
-Interstellar_Penguin is a low-poly penguin simulation game made in Unreal Engine 4.24.2.
+# Interstellar Penguin
+Interstellar Penguin is a low-poly penguin simulation game made in Unreal Engine 4.24.2.
 
 # Screenshots
 ![Papa Penguin and baby penguin watching the sunset](https://i.imgur.com/w21h8B8.jpg)
