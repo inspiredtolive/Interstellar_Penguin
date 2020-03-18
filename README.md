@@ -18,7 +18,7 @@ To open our project in UE4, recommended specs are:
 
 # Installation
 
-Just head over to [releases] (https://github.com/inspiredtolive/Interstellar_Penguin/releases) and download the latest release. No installation steps are required.
+Just head over to [releases](https://github.com/inspiredtolive/Interstellar_Penguin/releases) and download the latest release. No installation steps are required.
 
 # Features
 
