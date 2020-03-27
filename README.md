@@ -1,5 +1,11 @@
 # Interstellar Penguin
-Interstellar Penguin is a low-poly penguin simulation game made in Unreal Engine 4.24.2.
+Interstellar Penguin is a low-poly penguin simulation game created in Unreal Engine 4.24.2. It features navigation for both the player character and AI enemies, AIs controlled by a behavior tree, and schooling behavior for the fishes. For more information, check out our [landing page](https://interstellar-penguin.herokuapp.com/) and [blog](https://medium.com/@trulymhvu/pengwings-afd0ce096e3b).
+
+NOTE: This was originally source controlled in Perforce/Helix4Core and then Git LFS just to upload it to GitHub.
+
+Authors
+* Marco Chan [LinkedIn](https://www.linkedin.com/in/inspiredtolive)
+* Minh-Huy Vu [LinkedIn](https://www.linkedin.com/in/minh-huy-v-531911188/)
 
 # Screenshots
 ![Papa Penguin and baby penguin watching the sunset](https://i.imgur.com/w21h8B8.jpg)
@@ -20,6 +26,10 @@ To open our project in UE4, recommended specs are:
 
 Just head over to [releases](https://github.com/inspiredtolive/Interstellar_Penguin/releases) and download the latest release. No installation steps are required.
 
+# Usage
+
+Double-click the executable and control the penguin with WASD and the camera with your mouse.
+
 # Features
 
 ## Penguin Movement
@@ -32,12 +42,16 @@ Make sure to avoid the shark or be prepared to be eaten because the shark will c
 
 ## Schooling Behavior For Fishes
 
-The 3 behaviors for flocking/schooling were implemented.
+The 4 behaviors for flocking/schooling were implemented.
 * Cohesion
 * Alignment
 * Separation
+* Obstacle Avoidance
 
-## Obstacle Avoidance
+# Contributing
 
-Using a nice irrational number, phi, I plotted points in a sphere spiralling from the direction of fish.
-The fish will RayCast to detect if they are heading towards an obstacle. Then it will RayCast in a spiral until it finds a direction that does not collide with the obstacle and head towards that direction.
+You may contribute in several ways like creating new features, fixing bugs, improving documentation and examples or translating any document here to your language. Find more information in [CONTRIBUTING.md](https://github.com/inspiredtolive/Interstellar_Penguin/blob/master/Contributing.md).
+
+# License
+
+Licensed under [MIT](licensed under the terms of the GPL Open Source license)
