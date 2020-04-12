@@ -10,7 +10,10 @@ You may contribute in several ways like:
 
 ## Developing Interstellar Penguin
 
-To open our project in UE4, you need UE v4.24 and if you want to create C++ classes, Visual Studio 2017 or later. To contribute to the project, make a [pull request](https://github.com/inspiredtolive/Interstellar_Penguin/pulls).
+To open our project in UE4, you need UE v4.24 and if you want to create C++ classes, Visual Studio 2017 or later.
+After you clone the repo, right-click the .uproject file and select "generate project files". 
+
+To contribute to the project, make a [pull request](https://github.com/inspiredtolive/Interstellar_Penguin/pulls).
 
 ## Reporting a bug
 
