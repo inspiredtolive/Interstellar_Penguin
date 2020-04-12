@@ -30,6 +30,8 @@ Just head over to [releases](https://github.com/inspiredtolive/Interstellar_Peng
 
 Double-click the executable and control the penguin with WASD and the camera with your mouse.
 
+To open the project in UE4, make sure to generate project files after cloning the repo.
+
 # Features
 
 ## Penguin Movement
