@@ -7,11 +7,11 @@ Authors
 * Marco Chan [LinkedIn](https://www.linkedin.com/in/inspiredtolive)
 * Minh-Huy Vu [LinkedIn](https://www.linkedin.com/in/minh-huy-v-531911188/)
 
-# Screenshots
+## Screenshots
 ![Papa Penguin and baby penguin watching the sunset](https://i.imgur.com/w21h8B8.jpg)
 ![Papa Penguin and baby penguin being chased by a shark](https://i.imgur.com/SxIvGqh.jpg)
 
-# System Requirements
+## System Requirements
 
 As of right now, the game only supports Windows 32-bit, Windows 64-bit, and Linux.
 
@@ -22,27 +22,27 @@ To open our project in UE4, recommended specs are:
 * 8 GB RAM
 * DirectX 11 or DirectX 12 compatible graphics card
 
-# Installation
+## Installation
 
 Just head over to [releases](https://github.com/inspiredtolive/Interstellar_Penguin/releases) and download the latest release. No installation steps are required.
 
-# Usage
+## Usage
 
 Double-click the executable and control the penguin with WASD and the camera with your mouse.
 
 To open the project in UE4, make sure to generate project files after cloning the repo.
 
-# Features
+## Features
 
-## Penguin Movement
+### Penguin Movement
 
 The Penguin can move on land, swim on the surface of the water and underwater. Use this to capture the fishes!
 
-## Enemy Shark
+### Enemy Shark
 
 Make sure to avoid the shark or be prepared to be eaten because the shark will chase you!
 
-## Schooling Behavior For Fishes
+### Schooling Behavior For Fishes
 
 The 4 behaviors for flocking/schooling were implemented.
 * Cohesion
@@ -50,10 +50,10 @@ The 4 behaviors for flocking/schooling were implemented.
 * Separation
 * Obstacle Avoidance
 
-# Contributing
+## Contributing
 
 You may contribute in several ways like creating new features, fixing bugs, improving documentation and examples or translating any document here to your language. Find more information in [CONTRIBUTING.md](https://github.com/inspiredtolive/Interstellar_Penguin/blob/master/Contributing.md).
 
-# License
+## License
 
-Licensed under [MIT](licensed under the terms of the GPL Open Source license)
+Licensed under [MIT](LICENSE)
